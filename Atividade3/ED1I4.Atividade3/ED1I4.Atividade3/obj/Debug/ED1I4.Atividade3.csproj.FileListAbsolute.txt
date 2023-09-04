@@ -1,0 +1,8 @@
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\bin\Debug\ED1I4.Atividade3.exe.config
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\bin\Debug\ED1I4.Atividade3.exe
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\bin\Debug\ED1I4.Atividade3.pdb
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\obj\Debug\ED1I4.Atividade3.csproj.AssemblyReference.cache
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\obj\Debug\ED1I4.Atividade3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\obj\Debug\ED1I4.Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\obj\Debug\ED1I4.Atividade3.exe
+C:\Users\rod\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade3\ED1I4.Atividade3\ED1I4.Atividade3\obj\Debug\ED1I4.Atividade3.pdb
