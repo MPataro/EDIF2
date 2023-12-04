@@ -1,0 +1,2 @@
+{"Id":1,"Nome":"dev","Logs":[{"DtAcesso":"2023-11-05T15:56:21.1482386-03:00","Usuario":{"Id":1,"Nome":"miguel","Ambientes":[]},"TipoAcesso":false}]}
+{"Id":2,"Nome":"stg","Logs":[{"DtAcesso":"2023-11-05T15:56:48.557163-03:00","Usuario":{"Id":1,"Nome":"miguel","Ambientes":[]},"TipoAcesso":true}]}

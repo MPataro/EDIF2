@@ -1,0 +1,7 @@
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\bin\Debug\TP07.exe.config
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\bin\Debug\TP07.exe
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\bin\Debug\TP07.pdb
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\obj\Debug\TP07.csproj.AssemblyReference.cache
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\obj\Debug\TP07.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\obj\Debug\TP07.exe
+C:\Users\Alisson\Desktop\ED2\TP07\TP07\obj\Debug\TP07.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\bin\Debug\TP06.exe.config
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\bin\Debug\TP06.exe
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\bin\Debug\TP06.pdb
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.csproj.AssemblyReference.cache
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.Form1.resources
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.Properties.Resources.resources
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.csproj.GenerateResource.cache
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.exe
+C:\Users\Alisson\Desktop\ED2\TP06\TP06\obj\Debug\TP06.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\obj\Debug\TP02.csproj.AssemblyReference.cache
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\obj\Debug\TP02.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\bin\Debug\TP02.exe.config
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\bin\Debug\TP02.exe
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\bin\Debug\TP02.pdb
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\obj\Debug\TP02.exe
+C:\Users\Alisson\Desktop\ED2\TP2\TP02\TP02\obj\Debug\TP02.pdb
